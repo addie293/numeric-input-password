@@ -2,7 +2,7 @@
 
 ## To run the project
 
-You must have the 'npm' package installed to run this project. Extract the contents of the zip file in any specific directory and open a terminal window (if you're using Windows). Following which, run the command below. 
+You must have the 'npm' package installed and the 'node_module' folder present in the file to run this project. Extract the contents of the zip file in any specific directory and open a terminal window (if you're using Windows). Following which, run the command below. 
 
 ```
 npm run serve 
