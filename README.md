@@ -10,7 +10,7 @@ npm run serve
 
 ![![](run-serve.png)](images/run-serve.png)
 
-Open the localhost path that gets displayed on the terminal on your browser. The 'user password' is 012345678. Type any random password (current password). If it matches with the 'user password', an alert gets displayed that the password is correct. Otherwise, the 'current password' gets reset. The numerical buttons are also randomized.
+Open the localhost path that gets displayed on the terminal on your browser. The 'user password' is 012345678. Type any random password (current password). If it matches with the 'user password', an alert gets displayed that the password is correct. Otherwise, the 'current password' gets reset. The numerical buttons are also randomized to avoid bots.
 
 
 ![](images/pass.png)
