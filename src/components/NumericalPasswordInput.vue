@@ -30,7 +30,7 @@ export default {
                     this.wrongPassword = true
                     console.log(this.wrongPassword)
                     this.currentPassword = "";
-                    alert("Password doesn't matched");
+                    alert("Password doesn't match");
                     this.shuffle();
                 }
             }
